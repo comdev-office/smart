@@ -3,4 +3,6 @@ pandas
 plotly
 folium
 scikit-learn
+sklearn
+
 

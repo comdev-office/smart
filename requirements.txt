@@ -1,7 +1,6 @@
 streamlit
 pandas
 plotly
-xlsxwriter
 scikit-learn
 pulp
 folium
